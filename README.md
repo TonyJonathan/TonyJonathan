@@ -1,4 +1,4 @@
-- 👋 Hello there, I’m @TonyJonathan 
+# 👋 Hello there, I’m TonyJonathan 
 - 🌱 I’m currently learning about front end and back end. 
 - 📫 You can contact me on Linkedin. 
 <!---
