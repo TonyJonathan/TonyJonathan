@@ -15,10 +15,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TonyJonathan&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyJonathan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=TonyJonathan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
