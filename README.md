@@ -1,4 +1,5 @@
-# Hello there, I’m TonyJonathan ![wave](https://github.com/TonyJonathan/TonyJonathan/assets/133671540/18aca99a-c511-49ba-8fb0-dbf1eecdadfc)
+# Hello there, I’m TonyJonathan ![ezgif-2-03dac1fc1e](https://github.com/TonyJonathan/TonyJonathan/assets/133671540/355ae1f4-64ce-4e1b-8cb4-834fcfe2fe63)
+
 
 - 🌱 I’m currently learning about front end and back end. 
 - 📫 You can contact me on Linkedin. 
