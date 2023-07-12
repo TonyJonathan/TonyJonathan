@@ -1,7 +1,7 @@
 # Hello there, I’m TonyJonathan ![ezgif-2-03dac1fc1e](https://github.com/TonyJonathan/TonyJonathan/assets/133671540/355ae1f4-64ce-4e1b-8cb4-834fcfe2fe63)
 
 
-# 💫 About Me:
+## 💫 About Me:
 - 🌱 I’m currently learning about front end and back end. <br>- 📫 You can contact me on Linkedin. 
 
 
