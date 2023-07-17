@@ -1,4 +1,4 @@
-# Hello there, I’m Tony <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Nom du GIF" width="42" height="42">
+# Hello there, I’m Tony <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Nom du GIF" width="28" height="28">
 
 
 ## 💫 About Me:
