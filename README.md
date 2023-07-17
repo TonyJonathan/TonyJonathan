@@ -2,7 +2,8 @@
 
 
 ## 💫 About Me:
-- 🌱 I’m currently learning about front end and back end. <br> 📫 You can contact me on Linkedin. 
+- 🌱 I’m currently learning about front end and back end. <br>
+- 📫 You can contact me on Linkedin. 
 
 
 ## 🌐 Socials:
