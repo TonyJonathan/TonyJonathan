@@ -7,7 +7,7 @@
 
 
 ## 🌐 Socials:
-<a href = "https://www.linkedin.com/in/tony-bruchon/">Linkedin</a> is the best way to contact me. 
+<a href = "https://www.linkedin.com/in/tony-bruchon/">LinkedIn</a> is the best way to contact me. 
 
 # 💻 Tech Stack:
 
