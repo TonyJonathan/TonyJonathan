@@ -9,7 +9,7 @@
 ## 🌐 Socials:
 <a href = "https://www.linkedin.com/in/tony-bruchon/">Linkedin</a> is the best way to contact me. 
 
-# <img src="https://raw.githubusercontent.com/dsnehasish74/dsnehasish74/main/techstack.gif" alt="Stats" width="42" height="42"> Tech Stack:
+# <img src="https://raw.githubusercontent.com/dsnehasish74/dsnehasish74/main/techstack.gif" alt="Stats" width="433" height="411"> Tech Stack:
 
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/html5-original.svg" alt="html" width="60" height="60"> <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/css3-original.svg" alt="CSS" width="60" height="60"> <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/javascript-plain.svg" alt="JS" width="60" height="60"> <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/nodejs-original.svg" alt="Node JS" width="60" height="60"><img src="https://raw.githubusercontent.com/webpack/media/3e52c178e6ad2428585a2cbf5d22d6dbe0697f0f/logo/icon.svg" alt="Webpack" width="60" height="60"> <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="MySQL" width="96" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png?20140904162625" alt="npm" width="120" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="114" height="60"><img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" alt="php" width="107" height="60">
 
