@@ -1,6 +1,6 @@
 # Hello there, I’m Tony <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hello" width="34" height="34">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&height=40&lines=Welcome+to+my+profile;I'm+a+web+developper+junior;Love+create+and+learning+;Anime+fan+%3AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&height=40&lines=Welcome+to+my+profile;I'm+a+web+developper+junior;Love+create+and+learning+;I'm+looking+for+an+apprenticeship](https://git.io/typing-svg)
 ## 💫 About Me:
 - 🌱 I’m currently learning about front end and back end. <br>
 - 📫 You can contact me on Linkedin. 
