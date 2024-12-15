@@ -15,5 +15,7 @@
 
 # <img src="https://www.nosyweb.fr/images/icons/lots/lot18.png" alt="Stats" width="57" height="42"> GitHub Stats:
 
+<img src="https://github-readme-stats.vercel.app/api?username=TonyJonathan&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="TonyJonathan's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyJonathan&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="TonyJonathan's GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonyJonathan&theme=dark&hide_border=true" alt="TonyJonathan's GitHub Stats" />
 
